@@ -28,3 +28,8 @@
 1.3.6.1.4.1.62074.4.1 Accounting
 1.3.6.1.4.1.62074.4.2 Human Reseources
 1.3.6.1.4.1.62074.4.3 Legal and Corporate Affairs
+
+1.3.6.1.4.1.62074.5 Marketing
+1.3.6.1.4.1.62074.5.1 Logo, Graphics and Branding
+1.3.6.1.4.1.62074.5.2 Web and Social Media
+
