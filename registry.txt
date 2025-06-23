@@ -16,6 +16,7 @@
 1.3.6.1.4.1.62074.1.9  OrtoSpektaklo
 1.3.6.1.4.1.62074.1.10 orthovision-api
 1.3.6.1.4.1.62074.1.11 photarchi-opi (software)	
+1.3.6.1.4.1.62074.1.12 CiklIndiko
 
 1.3.6.1.4.1.62074.2	Hardware Devices
 
